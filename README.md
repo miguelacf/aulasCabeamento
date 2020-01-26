@@ -1,2 +1,4 @@
 # aulasCabeamento
-Desenvolvimento das aulas de cabeamento estruturado
+
+Esse repositório conterá os arquivos com o projeto de cabeamento, à medida que for estruturado.
+Estou na fase inicial, ainda vou iniciar a leitura.
